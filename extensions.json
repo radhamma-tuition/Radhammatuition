@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-rename-tag",
+    "ecmel.vscode-html-css",
+    "PKief.material-icon-theme",
+    "toba.vsfire"
+  ]
+}
